@@ -6,7 +6,7 @@ int main(void) {
     cout << "Enter a number: ";
     cin >> n;
 
-    while (n != 1) {
+    while (n >= 1) {
         factorial *= n--;
     }
 
