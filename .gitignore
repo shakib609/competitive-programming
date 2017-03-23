@@ -4,5 +4,7 @@
 # Unignore all with extensions
 !*.*
 
-# Unignore all dirs
-!*/
+
+# Ignore python cache
+__pycache__/
+*/__pycache__/
