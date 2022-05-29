@@ -1,4 +1,4 @@
-package findMaxConsecutiveOnes
+package leetcode
 
 func findMaxConsecutiveOnes(nums []int) int {
 	result := 0

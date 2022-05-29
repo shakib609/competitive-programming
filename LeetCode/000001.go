@@ -1,4 +1,4 @@
-package twoSum
+package leetcode
 
 func twoSum_n2(nums []int, target int) []int {
 	totalNums := len(nums)
