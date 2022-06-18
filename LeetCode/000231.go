@@ -1,10 +1,7 @@
 package leetcode
 
 func isPowerOfTwo(n int) bool {
-	if n == 1 {
-		return true
-	}
-	i := 2
+	i := 1
 	for i <= n {
 		if n == i {
 			return true
